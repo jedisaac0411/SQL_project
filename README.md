@@ -15,7 +15,7 @@ The analysis explores:
 ## 📂 Dataset
 The dataset comes from a broader collection of U.S. **data job postings in 2023**.  
 
-- **Original Dataset** → [Google Drive Link](https://drive.google.com/drive/folders/1qnEsw7RfnDlZDg0T7ZUPOS9VT_cW7zR5?usp=drive_link)  
+- **Original Dataset** → [2023 jobs](https://drive.google.com/drive/folders/1qnEsw7RfnDlZDg0T7ZUPOS9VT_cW7zR5?usp=drive_link)  
 - **Filtered Scope** → Only **Data Analyst jobs in Los Angeles** were analyzed.  
 
 ---
@@ -39,7 +39,7 @@ The dataset comes from a broader collection of U.S. **data job postings in 2023*
 - Roles like **Data Analyst Manager** and **Senior Data Analyst** reach **$180K–$220K+** average salaries.  
 - **TikTok** and **Quizlet** frequently appear as top-paying employers.  
 
-![Top Paying Jobs](resources\charts\top_paying_jobs.png)
+![Top Paying Jobs](charts\top_paying_jobs.png)
 
 ---
 
@@ -53,7 +53,7 @@ The dataset comes from a broader collection of U.S. **data job postings in 2023*
 - **SQL** is the most demanded skill, required in **800+ postings**.  
 - Other essentials: **Excel, Tableau, Python**.  
 
-![Top Demanded Skills](resources\charts\top_demanded_jobs.png)
+![Top Demanded Skills](charts\top_demanded_jobs.png)
 
 ---
 
@@ -63,6 +63,6 @@ The dataset comes from a broader collection of U.S. **data job postings in 2023*
   - **Python** → widely required + top-paying  
   - **Tableau** → competitive salary + stable demand  
 
-![Optimal Skills](resources\charts\optimal_skills.png)
+![Optimal Skills](charts\optimal_skills.png)
 
 
