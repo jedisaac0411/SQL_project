@@ -39,7 +39,7 @@ The dataset comes from a broader collection of U.S. **data job postings in 2023*
 - Roles like **Data Analyst Manager** and **Senior Data Analyst** reach **$180K–$220K+** average salaries.  
 - **TikTok** and **Quizlet** frequently appear as top-paying employers.  
 
-![Top Paying Jobs](charts\top_paying_jobs.png)
+![Top Paying Jobs](/charts/top_paying_jobs.png)
 
 ---
 
@@ -53,7 +53,7 @@ The dataset comes from a broader collection of U.S. **data job postings in 2023*
 - **SQL** is the most demanded skill, required in **800+ postings**.  
 - Other essentials: **Excel, Tableau, Python**.  
 
-![Top Demanded Skills](charts\top_demanded_jobs.png)
+![Top Demanded Skills](/charts/top_demanded_jobs.png)
 
 ---
 
@@ -63,6 +63,6 @@ The dataset comes from a broader collection of U.S. **data job postings in 2023*
   - **Python** → widely required + top-paying  
   - **Tableau** → competitive salary + stable demand  
 
-![Optimal Skills](charts\optimal_skills.png)
+![Optimal Skills](/charts/optimal_skills.png)
 
 
