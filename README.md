@@ -65,4 +65,7 @@ The dataset comes from a broader collection of U.S. **data job postings in 2023*
 
 ![Optimal Skills](/charts/optimal_skills.png)
 
+---
 
+### 📝 Conclusion
+The Los Angeles Data Analyst market in 2023 is highly competitive, with **SQL** and **Python** as the most in-demand and best-paying skills. Pairing these with visualization tools like **Tableau** gives professionals the strongest career advantage in both salary and job opportunities.
